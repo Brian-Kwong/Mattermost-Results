@@ -1,0 +1,807 @@
+waiting for 1 second sample...
+
+### RECORD    1 >>> mattermost-server <<< (1747819062.001) (Wed May 21 09:17:42 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     1     256     0     1      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD    2 >>> mattermost-server <<< (1747819063.001) (Wed May 21 09:17:43 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0   99
+      1     1    0    0    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     0     256     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD    3 >>> mattermost-server <<< (1747819064.001) (Wed May 21 09:17:44 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    1    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0       8      1    1    8     0       8     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD    4 >>> mattermost-server <<< (1747819065.001) (Wed May 21 09:17:45 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     300      2    6   50     0      50     2     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD    5 >>> mattermost-server <<< (1747819066.001) (Wed May 21 09:17:46 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     1    0    0    0    0    0     0     0     0   99
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     0     256     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD    6 >>> mattermost-server <<< (1747819067.001) (Wed May 21 09:17:47 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0    1044     19    2  522     0     522     1     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD    7 >>> mattermost-server <<< (1747819068.001) (Wed May 21 09:17:48 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     0     256     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD    8 >>> mattermost-server <<< (1747819069.001) (Wed May 21 09:17:49 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    21    0    2    3    0    0     0     0     0   74
+      1    15    0    2    1    0    1     0     0     0   81
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     536      0   33   16     1      16     2     1      1    5
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD    9 >>> mattermost-server <<< (1747819070.001) (Wed May 21 09:17:50 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    53    0    1    6    0    0     0     0     0   39
+      1    49    0    3    9    0    1     0     0     0   37
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0    1488      0  116   13     1      12     1     1      1   16
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   10 >>> mattermost-server <<< (1747819071.001) (Wed May 21 09:17:51 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    48    0    1    2    0    0     0     0     0   48
+      1    11    0    2    8    0    0     0     0     0   78
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     404      0   73    6     1       5     1     1      1   12
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   11 >>> mattermost-server <<< (1747819072.001) (Wed May 21 09:17:52 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    1    0    0    0     0     0     0   99
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     0     256     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   12 >>> mattermost-server <<< (1747819073.001) (Wed May 21 09:17:53 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     268      0    4   67     0      67     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   13 >>> mattermost-server <<< (1747819074.001) (Wed May 21 09:17:54 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     5    0    0    0    0    0     0     0     0   92
+      1     5    0    1    1    0    1     0     0     0   92
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0      48      1    3   16     1      16     1     1      1    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   14 >>> mattermost-server <<< (1747819075.001) (Wed May 21 09:17:55 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    1    0    0    0     0     0     0   99
+      1     1    0    0    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     296      0    6   49     0      49     2     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   15 >>> mattermost-server <<< (1747819076.001) (Wed May 21 09:17:56 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     3    0    1    1    0    0     0     0     0   95
+      1     1    0    1    0    0    0     0     0     0   97
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     772      0   16   48     0      48     1     0      0    1
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   16 >>> mattermost-server <<< (1747819077.001) (Wed May 21 09:17:57 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     3    0    2    0    0    0     0     0     0   94
+      1     2    0    1    0    0    0     0     0     0   93
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0      12      0    3    4     2       4     2     2      2    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   17 >>> mattermost-server <<< (1747819078.001) (Wed May 21 09:17:58 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     5    0    1    0    0    0     0     0     0   92
+      1     0    0    2    0    0    0     0     0     0   97
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     1     256     0     1      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   18 >>> mattermost-server <<< (1747819079.001) (Wed May 21 09:17:59 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     264      0    3   88     0      88     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   19 >>> mattermost-server <<< (1747819080.001) (Wed May 21 09:18:00 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     5    0    2    0    0    0     0     0     0   92
+      1     5    0    1    0    0    0     0     0     0   93
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0       8      0    1    8     0       8     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   20 >>> mattermost-server <<< (1747819081.001) (Wed May 21 09:18:01 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0   99
+      1     0    0    1    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     276      1    2  138     0     138     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   21 >>> mattermost-server <<< (1747819082.001) (Wed May 21 09:18:02 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     1    0    0    0    0    0     0     0     0   99
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    2  128     0     128     1     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   22 >>> mattermost-server <<< (1747819083.001) (Wed May 21 09:18:03 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     2    0    1    0    0    1     0     0     0   96
+      1     2    0    1    0    0    1     0     0     0   95
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     228     28   29    8     0       7     5     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   23 >>> mattermost-server <<< (1747819084.001) (Wed May 21 09:18:04 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     0     256     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   24 >>> mattermost-server <<< (1747819085.001) (Wed May 21 09:18:05 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    1    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     288      0    6   48     0      48     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   25 >>> mattermost-server <<< (1747819086.001) (Wed May 21 09:18:06 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     5    0    1    0    0    0     0     0     0   93
+      1     5    0    1    0    0    0     0     0     0   94
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   26 >>> mattermost-server <<< (1747819087.001) (Wed May 21 09:18:07 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    1    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     264      0    3   88     1      88     2     1      1    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   27 >>> mattermost-server <<< (1747819088.001) (Wed May 21 09:18:08 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     276      1    2  138     0     138     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   28 >>> mattermost-server <<< (1747819089.002) (Wed May 21 09:18:09 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    25    0    6    0    0    1     0     0     0   68
+      1    26    0    5    0    0    1     0     0     0   67
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     635      0   82    8     1       7     2     1      1   12
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   29 >>> mattermost-server <<< (1747819090.001) (Wed May 21 09:18:10 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     2    0    2    0    0    0     0     0     0   96
+      1     1    0    1    0    0    0     0     0     0   97
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     184      0    7   26     1      26     1     1      1    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   30 >>> mattermost-server <<< (1747819091.001) (Wed May 21 09:18:11 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    3    0    0     0     0     0   97
+      1     0    0    0    0    0    0     0     0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     952     52  124    8     0       7     3     0      0    3
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   31 >>> mattermost-server <<< (1747819092.001) (Wed May 21 09:18:12 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     4    0    3    1    0    0     0     0     0   91
+      1     4    0    3    2    0    0     0     0     0   90
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     416      0   33   13     1      12     1     1      1    4
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   32 >>> mattermost-server <<< (1747819093.001) (Wed May 21 09:18:13 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     5    0    4    0    0    0     0     0     0   91
+      1     4    0    3    2    0    0     0     0     0   90
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     232      0   46    5     1       5     2     1      1    6
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   33 >>> mattermost-server <<< (1747819094.001) (Wed May 21 09:18:14 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     296      1    2  148     0     148     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   34 >>> mattermost-server <<< (1747819095.001) (Wed May 21 09:18:15 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     2    0    1    0    0    1     0     0     0   96
+      1     2    0    1    1    0    0     0     0     0   96
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     300      0   10   30     1      30     1     1      1    1
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   35 >>> mattermost-server <<< (1747819096.001) (Wed May 21 09:18:16 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     5    0    3    0    0    1     0     0     0   90
+      1     6    0    4    1    0    2     0     0     0   87
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     152      0   32    5     1       4     1     1      1    5
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   36 >>> mattermost-server <<< (1747819097.001) (Wed May 21 09:18:17 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     1    0    0    0    0    0     0     0     0   99
+      1     1    0    1    0    0    0     0     0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     264      1    2  132     0     132     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   37 >>> mattermost-server <<< (1747819098.002) (Wed May 21 09:18:18 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     3    0    1    0    0    0     0     0     0   93
+      1     2    0    0    1    0    0     0     0     0   96
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     439      0   13   34     1      33     1     1      1    1
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   38 >>> mattermost-server <<< (1747819099.001) (Wed May 21 09:18:19 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    34    0    4    3    0    1     0     0     0   57
+      1    38    0    6    5    0    2     0     0     0   48
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0   12420      0   75  165     2     165     2     2      1   13
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   39 >>> mattermost-server <<< (1747819100.001) (Wed May 21 09:18:20 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    1    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     0     256     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   40 >>> mattermost-server <<< (1747819101.001) (Wed May 21 09:18:21 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     1    0    1    1    0    0     0     0     0   96
+      1     3    0    0    0    0    0     0     0     0   96
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     440      1   21   21     1      20     1     1      1    2
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   41 >>> mattermost-server <<< (1747819102.001) (Wed May 21 09:18:22 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    40    0    8    2    0    2     0     0     0   48
+      1    42    0    7    1    0    2     0     0     0   46
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0    1152      0  131    9     1       8     2     1      1   18
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   42 >>> mattermost-server <<< (1747819103.001) (Wed May 21 09:18:23 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     276      0    6   46     0      46     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   43 >>> mattermost-server <<< (1747819104.001) (Wed May 21 09:18:24 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     2    0    0    0    0    0     0     0     0   97
+      1     1    0    0    1    0    0     0     0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     304      0    5   61     1      60     2     1      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   44 >>> mattermost-server <<< (1747819105.001) (Wed May 21 09:18:25 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    31    0    6    5    0    1     0     0     0   56
+      1    24    0    7    3    0    2     0     0     0   63
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     832      0   76   11     1      10     1     1      1   10
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   45 >>> mattermost-server <<< (1747819106.001) (Wed May 21 09:18:26 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     1    0    0    0    0    0     0     0     0   99
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     288      0    7   41     0      41     1     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   46 >>> mattermost-server <<< (1747819107.001) (Wed May 21 09:18:27 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    1    0    0    1     0     0     0   98
+      1     1    0    1    0    0    0     0     0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     360      1    6   60     1      60     2     1      1    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   47 >>> mattermost-server <<< (1747819108.001) (Wed May 21 09:18:28 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    22    0   11   10    0    2     0     0     0   53
+      1    24    0   10    9    0    3     0     0     0   52
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0    2052      0  271    8     1       7     2     1      1   31
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   48 >>> mattermost-server <<< (1747819109.001) (Wed May 21 09:18:29 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     1    0    0    0    0    0     0     0     0   99
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0       8      1    1    8     0       8     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   49 >>> mattermost-server <<< (1747819110.001) (Wed May 21 09:18:30 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     1     256     0     1      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   50 >>> mattermost-server <<< (1747819111.001) (Wed May 21 09:18:31 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     7    0    4    9    0    1     0     0     0   78
+      1     7    0    3    6    0    1     0     0     0   82
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     848      0  123    7     1       6     1     1      1   18
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   51 >>> mattermost-server <<< (1747819112.001) (Wed May 21 09:18:32 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   52 >>> mattermost-server <<< (1747819113.001) (Wed May 21 09:18:33 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0   99
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     260      0    2  130     0     130     1     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   53 >>> mattermost-server <<< (1747819114.001) (Wed May 21 09:18:34 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    10    0    4    3    0    1     0     0     0   81
+      1     9    0    4    3    0    1     0     0     0   82
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     456      0   43   11     1      10     1     1      1    7
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   54 >>> mattermost-server <<< (1747819115.001) (Wed May 21 09:18:35 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0       8      1    1    8     0       8     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   55 >>> mattermost-server <<< (1747819116.001) (Wed May 21 09:18:36 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     1    0    0    0    0    0     0     0     0   99
+      1     0    0    0    0    0    0     0     0     0  100
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0    1  256     1     256     0     1      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   56 >>> mattermost-server <<< (1747819117.001) (Wed May 21 09:18:37 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     7    0    4   13    0    1     0     0     0   74
+      1     5    0    4    9    0    3     0     0     0   78
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0    1056      0  159    7     1       6     1     1      1   26
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   57 >>> mattermost-server <<< (1747819118.001) (Wed May 21 09:18:38 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     1    0    0    0    0    0     0     0     0   99
+      1     0    0    0    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   58 >>> mattermost-server <<< (1747819119.001) (Wed May 21 09:18:39 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    1    0    0    0     0     0     0   99
+      1     1    0    0    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     260      0    2  130     0     130     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   59 >>> mattermost-server <<< (1747819120.001) (Wed May 21 09:18:40 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     4    0    2    4    0    0     0     0     0   89
+      1     4    0    1    7    0    0     0     0     0   87
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     664      0   81    8     1       8     1     1      1   12
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   60 >>> mattermost-server <<< (1747819121.001) (Wed May 21 09:18:41 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0   36    0    0     0     0     0   62
+      1     0    0    0    1    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     676    100   10   68     1      67     2     1     18   18
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   61 >>> mattermost-server <<< (1747819122.001) (Wed May 21 09:18:42 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0     0     0     0  100
+      1     0    0    1    0    0    0     0     0     0   99
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     404     33   68    6     0       5    61     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0
+
+### RECORD   62 >>> mattermost-server <<< (1747819123.001) (Wed May 21 09:18:43 2025) ###
+
+# SINGLE CPU[HYPER] STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     6    0    3    0    0    0     0     0     0   91
+      1     3    0    2    0    0    0     0     0     0   95
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+sda              0      0    0    0     0     256      0   14   18     0      18     0     0      0    0
+sdb              0      0    0    0     0       0      0    0    0     0       0     0     0      0    0

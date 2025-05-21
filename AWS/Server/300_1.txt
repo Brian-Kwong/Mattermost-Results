@@ -1,0 +1,1249 @@
+waiting for 1 second sample...
+
+### RECORD    1 >>> ip-172-31-44-122 <<< (1747813415.001) (Wed May 21 07:43:35 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    59    0    3    5    0    0     2     0     0   27
+      1    23    0    1    1    0    0     1     0     0   74
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          3836      0  115   33     0     264      0    4   66     0      34     1     0      0    7
+
+### RECORD    2 >>> ip-172-31-44-122 <<< (1747813416.001) (Wed May 21 07:43:36 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    87    0    4    3    0    1     2     0     0    3
+      1     0    0    1    0    0    0     1     0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2096      0   72   29     0     264      1    5   53     0      30     1     0      0    4
+
+### RECORD    3 >>> ip-172-31-44-122 <<< (1747813417.001) (Wed May 21 07:43:37 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    85    0    5    3    0    0     3     0     0    4
+      1     0    0    0    0    0    0     2     0     0   97
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2656      0   77   34     0     256      0   14   18     0      32     1     0      0    4
+
+### RECORD    4 >>> ip-172-31-44-122 <<< (1747813418.001) (Wed May 21 07:43:38 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    86    0    3    6    0    0     1     0     0    3
+      1     1    0    0    0    0    0     0     0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          3024      0  120   25     0     256      0   12   21     0      24     1     0      0    6
+
+### RECORD    5 >>> ip-172-31-44-122 <<< (1747813419.001) (Wed May 21 07:43:39 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    88    0    4    1    0    0     1     0     0    1
+      1    69    0    7    1    0    0     3     0     0   15
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          3080      0  110   28     0     848      0   91    9     0      19     1     0      0   10
+
+### RECORD    6 >>> ip-172-31-44-122 <<< (1747813420.001) (Wed May 21 07:43:40 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    93    0    3    0    0    2     1     0     0    1
+      1    85    0    5    1    0    1     3     0     0    4
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1680      0   79   21     0    1060      0  120    9     0      13     1     0      0    8
+
+### RECORD    7 >>> ip-172-31-44-122 <<< (1747813421.001) (Wed May 21 07:43:41 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    91    0    4    1    0    2     1     0     0    1
+      1    86    0    6    3    0    1     1     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2816      0   98   29     0    1296      0  147    9     0      16     1     0      0   10
+
+### RECORD    8 >>> ip-172-31-44-122 <<< (1747813422.001) (Wed May 21 07:43:42 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    88    0    4    1    0    2     3     0     0    1
+      1    85    0    6    2    0    0     0     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2800     59  111   25     0    1336      0  148    9     0      15     1     0      0   11
+
+### RECORD    9 >>> ip-172-31-44-122 <<< (1747813423.001) (Wed May 21 07:43:43 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    91    0    6    0    0    0     1     0     0    2
+      1    84    0    9    0    0    1     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         14148     29  231   61     0    1944      2  275    7     0      31     1     0      0   19
+
+### RECORD   10 >>> ip-172-31-44-122 <<< (1747813424.001) (Wed May 21 07:43:44 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    87    0    5    1    0    2     3     0     0    1
+      1    90    0    5    2    0    0     1     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1980      0   67   30     0    1280      0  146    9     0      15     1     0      0    8
+
+### RECORD   11 >>> ip-172-31-44-122 <<< (1747813425.001) (Wed May 21 07:43:45 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    5    1    0    0     0     0     0    0
+      1    89    0    5    0    0    1     4     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2552     31   87   29     0    1772     53  102   17     0      22     1     0      0    7
+
+### RECORD   12 >>> ip-172-31-44-122 <<< (1747813426.002) (Wed May 21 07:43:46 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    91    0    5    0    0    0     3     0     0    0
+      1    89    0    5    1    0    0     2     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1322      0   52   25     0     855      0   77   11     0      16     1     0      0    4
+
+### RECORD   13 >>> ip-172-31-44-122 <<< (1747813427.002) (Wed May 21 07:43:47 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    93    0    2    1    0    2     1     0     0    1
+      1    84    0    6    2    0    1     4     0     0    3
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1720      0   67   26     0     864      0   72   12     0      18     1     0      0    7
+
+### RECORD   14 >>> ip-172-31-44-122 <<< (1747813428.001) (Wed May 21 07:43:48 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    91    0    3    0    0    0     2     0     0    0
+      1    90    0    5    1    0    0     2     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1349      0   41   33     0    1017      0   76   13     0      20     1     0      0    6
+
+### RECORD   15 >>> ip-172-31-44-122 <<< (1747813429.001) (Wed May 21 07:43:49 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    82    0   13    0    0    2     1     0     0    1
+      1    83    0   10    1    0    1     3     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2188      0   65   34     0     696      0   70   10     0      21     1     0      0    6
+
+### RECORD   16 >>> ip-172-31-44-122 <<< (1747813430.001) (Wed May 21 07:43:50 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    4    2    0    1     2     0     0    2
+      1    88    0    6    2    0    0     2     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2240      0   69   32     0     856      0   90   10     0      19     1     0      0   10
+
+### RECORD   17 >>> ip-172-31-44-122 <<< (1747813431.001) (Wed May 21 07:43:51 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    91    0    5    0    0    2     1     0     0    0
+      1    89    0    6    1    0    1     1     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2388      0   67   36     0    1024      0  108    9     1      19     1     0      0    9
+
+### RECORD   18 >>> ip-172-31-44-122 <<< (1747813432.001) (Wed May 21 07:43:52 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    90    0    5    1    0    1     2     0     0    1
+      1    83    0    9    1    0    1     3     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2868    141   77   37     1    2776     92  199   14     1      20     2     1      0   13
+
+### RECORD   19 >>> ip-172-31-44-122 <<< (1747813433.002) (Wed May 21 07:43:53 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    5    1    0    1     4     0     0    0
+      1    88    0    4    1    0    0     0     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1918      0   53   36     0     527      0   60    9     1      21     1     1      0    9
+
+### RECORD   20 >>> ip-172-31-44-122 <<< (1747813434.002) (Wed May 21 07:43:54 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    90    0    6    1    0    1     1     0     0    1
+      1    90    0    5    0    0    0     2     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1640      0   50   33     0     584      0   66    9     1      19     1     0      0    9
+
+### RECORD   21 >>> ip-172-31-44-122 <<< (1747813435.002) (Wed May 21 07:43:55 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    87    0    7    1    0    1     2     0     0    2
+      1    88    0    6    1    0    2     1     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2748      0   89   31     0     584      0   75    8     1      20     1     0      0   11
+
+### RECORD   22 >>> ip-172-31-44-122 <<< (1747813436.002) (Wed May 21 07:43:56 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    90    0    5    0    0    2     2     0     0    1
+      1    87    0    4    0    0    0     2     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1392      0   36   39     1     504      0   57    9     1      20     1     1      0    8
+
+### RECORD   23 >>> ip-172-31-44-122 <<< (1747813437.001) (Wed May 21 07:43:57 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    5    1    0    1     2     0     0    1
+      1    91    0    5    1    0    0     1     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1849      0   39   47     0     528      0   60    9     1      24     1     0      0    8
+
+### RECORD   24 >>> ip-172-31-44-122 <<< (1747813438.001) (Wed May 21 07:43:58 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    76    0   16    1    0    2     4     0     0    1
+      1    80    0   13    0    0    0     2     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2624      0   84   31     0     776      0   69   11     1      22     1     0      0   12
+
+### RECORD   25 >>> ip-172-31-44-122 <<< (1747813439.001) (Wed May 21 07:43:59 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    72    0   22    0    0    1     1     0     0    0
+      1    83    0   12    0    0    2     2     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           836      0   24   35     0    1444      0  105   14     1      17     1     1      0   10
+
+### RECORD   26 >>> ip-172-31-44-122 <<< (1747813440.002) (Wed May 21 07:44:00 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    91    0    4    1    0    1     2     0     0    1
+      1    87    0    8    1    0    1     2     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1638      0   42   39     0     887      0   96    9     1      18     1     0      0   11
+
+### RECORD   27 >>> ip-172-31-44-122 <<< (1747813441.002) (Wed May 21 07:44:01 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    88    0    9    0    0    0     2     0     0    0
+      1    90    0    4    0    0    0     0     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1472      0   27   55     0     736      0   84    9     1      19     1     0      0    9
+
+### RECORD   28 >>> ip-172-31-44-122 <<< (1747813442.002) (Wed May 21 07:44:02 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    81    0   13    0    0    1     1     0     0    0
+      1    86    0    9    0    0    3     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1132      0   31   37     0    1288      0  141    9     1      14     1     0      0   16
+
+### RECORD   29 >>> ip-172-31-44-122 <<< (1747813443.003) (Wed May 21 07:44:03 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    90    0    5    0    0    2     2     0     0    1
+      1    85    0    7    1    0    0     1     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2345      0   67   35     0    1286      0  184    7     1      14     1     0      0   15
+
+### RECORD   30 >>> ip-172-31-44-122 <<< (1747813444.002) (Wed May 21 07:44:04 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    86    0    7    2    0    0     3     0     0    1
+      1    92    0    4    1    0    1     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1921      0   48   40     0    1497      0  170    9     1      15     1     0      0   14
+
+### RECORD   31 >>> ip-172-31-44-122 <<< (1747813445.002) (Wed May 21 07:44:05 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    80    0   14    0    0    1     1     0     0    0
+      1    85    0   11    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           344      0    7   49     0    1080      0  116    9     1      11     0     1      1   12
+
+### RECORD   32 >>> ip-172-31-44-122 <<< (1747813446.002) (Wed May 21 07:44:06 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    88    0    6    0    0    3     2     0     0    1
+      1    83    0   11    1    0    2     1     0     0    2
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1312      0   39   34     0    1072      0  121    9     1      14     1     0      0   14
+
+### RECORD   33 >>> ip-172-31-44-122 <<< (1747813447.003) (Wed May 21 07:44:07 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    5    1    0    1     1     0     0    2
+      1    87    0    8    2    0    1     1     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1878      0   62   30     0     927      0  105    9     1      16     1     0      0   14
+
+### RECORD   34 >>> ip-172-31-44-122 <<< (1747813448.001) (Wed May 21 07:44:08 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    82    0   10    1    0    5     1     0     0    1
+      1    87    0    7    0    0    2     2     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2468      0  111   22     0    2364      0  183   13     1      16     1     0      0   20
+
+### RECORD   35 >>> ip-172-31-44-122 <<< (1747813449.001) (Wed May 21 07:44:09 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    87    0    8    0    0    3     1     0     0    0
+      1    89    0    8    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           976      0   41   24     0    2280      0  136   17     1      18     1     0      0   15
+
+### RECORD   36 >>> ip-172-31-44-122 <<< (1747813450.001) (Wed May 21 07:44:10 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    86    0    6    0    0    1     3     0     0    0
+      1    88    0    6    2    0    1     2     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2336     24   67   35     0    1704      0  124   14     1      21     1     0      0   16
+
+### RECORD   37 >>> ip-172-31-44-122 <<< (1747813451.002) (Wed May 21 07:44:11 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    87    0   10    0    0    2     1     0     0    0
+      1    83    0   12    0    0    2     1     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1570      0   43   37     0    3944     21  147   27     1      29     1     1      0   17
+
+### RECORD   38 >>> ip-172-31-44-122 <<< (1747813452.001) (Wed May 21 07:44:12 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    76    0   18    0    0    2     3     0     0    0
+      1    88    0    9    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           208      0   12   17     0    1833      0  106   17     1      17     1     1      0   11
+
+### RECORD   39 >>> ip-172-31-44-122 <<< (1747813453.002) (Wed May 21 07:44:13 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    73    0   22    0    0    2     0     0     0    0
+      1    81    0   16    0    0    1     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           227      0   14   16     0    1342      0   73   18     1      18     1     1      1    8
+
+### RECORD   40 >>> ip-172-31-44-122 <<< (1747813454.001) (Wed May 21 07:44:14 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    70    0   25    0    0    3     1     0     0    0
+      1    80    0   13    0    0    2     2     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           672      0   18   37     0    2462     38  239   10     1      12     2     1      0   14
+
+### RECORD   41 >>> ip-172-31-44-122 <<< (1747813455.001) (Wed May 21 07:44:15 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    81    0   15    0    0    2     1     0     0    0
+      1    70    0   27    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda            56      0   13    4     0    2576    244   68   38     1      32     1     1      0    6
+
+### RECORD   42 >>> ip-172-31-44-122 <<< (1747813456.002) (Wed May 21 07:44:16 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    76    0   16    0    0    4     1     0     0    0
+      1    67    0   27    0    0    2     4     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           107      0    8   14     0     983      0   60   16     1      16     1     1      1    7
+
+### RECORD   43 >>> ip-172-31-44-122 <<< (1747813457.001) (Wed May 21 07:44:17 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    81    0   13    0    0    3     2     0     0    0
+      1    74    0   22    0    0    1     3     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           224      0   10   22     0    1209      0   55   22     1      22     0     1      1    7
+
+### RECORD   44 >>> ip-172-31-44-122 <<< (1747813458.001) (Wed May 21 07:44:18 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    80    0   14    0    0    4     2     0     0    0
+      1    68    0   27    0    0    3     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           288      0   21   14     0    1360      0   62   22     1      19     1     1      1    8
+
+### RECORD   45 >>> ip-172-31-44-122 <<< (1747813459.001) (Wed May 21 07:44:19 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    85    0   10    0    0    4     1     0     0    0
+      1    70    0   24    0    0    1     2     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           480      0   26   18     0    1368      0   84   16     1      16     1     1      1   10
+
+### RECORD   46 >>> ip-172-31-44-122 <<< (1747813460.001) (Wed May 21 07:44:20 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    83    0   12    0    0    3     2     0     0    0
+      1    75    0   21    0    0    3     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           304      0   21   14     0    1704      0   92   19     1      17     1     1      1   11
+
+### RECORD   47 >>> ip-172-31-44-122 <<< (1747813461.001) (Wed May 21 07:44:21 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    81    0   13    0    0    4     1     0     0    0
+      1    78    0   18    0    0    1     0     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           400      0   28   14     0    1800      0   79   23     1      20     0     1      1   10
+
+### RECORD   48 >>> ip-172-31-44-122 <<< (1747813462.002) (Wed May 21 07:44:22 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    86    0   10    0    0    2     2     0     0    0
+      1    72    0   23    0    0    1     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           227      0   21   11     0    1966      0   93   21     1      19     1     1      1   11
+
+### RECORD   49 >>> ip-172-31-44-122 <<< (1747813463.002) (Wed May 21 07:44:23 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    74    0   20    0    0    4     2     0     0    0
+      1    71    0   24    0    0    3     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           384      0   16   24     0    2128      0  130   16     1      17     1     1      1   15
+
+### RECORD   50 >>> ip-172-31-44-122 <<< (1747813464.002) (Wed May 21 07:44:24 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    83    0   13    0    0    3     1     0     0    0
+      1    77    0   16    0    0    1     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           672      0   31   22     0    3008      0  145   21     1      20     1     1      1   18
+
+### RECORD   51 >>> ip-172-31-44-122 <<< (1747813465.001) (Wed May 21 07:44:25 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    81    0   14    0    0    3     2     0     0    0
+      1    80    0   16    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          5213      0  179   29     0    3195      0  163   20     1      24     1     0      0   21
+
+### RECORD   52 >>> ip-172-31-44-122 <<< (1747813466.001) (Wed May 21 07:44:26 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    84    0   10    0    0    3     0     0     0    0
+      1    83    0   14    0    0    1     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           592      0   32   19     0    2672      0  149   18     1      18     1     1      0   17
+
+### RECORD   53 >>> ip-172-31-44-122 <<< (1747813467.001) (Wed May 21 07:44:27 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    70    0   25    0    0    4     1     0     0    0
+      1    75    0   19    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1820      0   27   67     0    9676     65  199   49     1      50     1     1      0   16
+
+### RECORD   54 >>> ip-172-31-44-122 <<< (1747813468.001) (Wed May 21 07:44:28 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    75    0   19    0    0    4     1     0     0    0
+      1    73    0   23    0    0    3     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda            72      0   11    7     0    2912      1   97   30     1      27     1     1      1   12
+
+### RECORD   55 >>> ip-172-31-44-122 <<< (1747813469.001) (Wed May 21 07:44:29 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    73    0   21    0    0    4     2     0     0    0
+      1    62    0   34    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda            40      0    9    4     0    1292      1   56   23     1      20     0     1      1    7
+
+### RECORD   56 >>> ip-172-31-44-122 <<< (1747813470.001) (Wed May 21 07:44:30 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    66    0   29    0    0    2     3     0     0    0
+      1    69    0   26    0    0    1     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           936      0   40   23     0    3244      0   87   37     1      32     1     1      0    8
+
+### RECORD   57 >>> ip-172-31-44-122 <<< (1747813471.002) (Wed May 21 07:44:31 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    66    0   31    0    0    1     1     0     0    0
+      1    58    0   37    1    0    1     2     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          3320      0  193   17     0    1606      0   38   42     1      21     1     0      0   11
+
+### RECORD   58 >>> ip-172-31-44-122 <<< (1747813472.002) (Wed May 21 07:44:32 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    67    0   28    0    0    1     1     0     0    0
+      1    34    0   63    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1496      0   66   23     0     208      0   20   10     1      19     1     0      0    5
+
+### RECORD   59 >>> ip-172-31-44-122 <<< (1747813473.001) (Wed May 21 07:44:33 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    46    0   53    0    0    0     0     0     0    0
+      1    55    0   42    0    0    1     1     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          3191      0   86   37     0     656      0   60   11     1      26     1     0      0    6
+
+### RECORD   60 >>> ip-172-31-44-122 <<< (1747813474.003) (Wed May 21 07:44:34 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    62    0   33    0    0    0     1     0     0    0
+      1    33    0   64    0    0    0     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1816      0   52   35     0      87      0   12    7     1      29     1     0      0    4
+
+### RECORD   61 >>> ip-172-31-44-122 <<< (1747813475.015) (Wed May 21 07:44:35 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    27    0   62    7    0    0     0     0     0    0
+      1    40    0   56    1    0    0     2     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         74592     58 1300   57     0   11047     62  326   34     1      52     5     1      0   32
+
+### RECORD   62 >>> ip-172-31-44-122 <<< (1747813476.003) (Wed May 21 07:44:36 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    47    0   26   18    0    0     2     0     0    5
+      1    39    0   50    6    0    2     1     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         99676   1293 1532   65     0    6412    659  703    9     1      47     3     0      0   62
+
+### RECORD   63 >>> ip-172-31-44-122 <<< (1747813477.001) (Wed May 21 07:44:37 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    55    0   29   12    0    0     2     0     0    1
+      1    37    0   44   13    0    1     1     0     0    3
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         62120    191  862   72     0     216     13   31    7     1      69     1     0      0   49
+
+### RECORD   64 >>> ip-172-31-44-122 <<< (1747813478.001) (Wed May 21 07:44:38 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    25    0    7   66    0    0     1     0     0    0
+      1    87    0    4    4    0    0     2     0     0    3
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         71312     93  809   88     1     160     32    6   27     1      87     1     1      0   63
+
+### RECORD   65 >>> ip-172-31-44-122 <<< (1747813479.001) (Wed May 21 07:44:39 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    67    0   17   12    0    1     1     0     0    2
+      1    80    0    9    5    0    1     1     0     0    3
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         45420    141  903   50     0     864    153   47   18     1      48     1     0      0   48
+
+### RECORD   66 >>> ip-172-31-44-122 <<< (1747813480.003) (Wed May 21 07:44:40 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    61    0   19   17    0    0     1     0     0    1
+      1    75    0    6    6    0    0     4     0     0    4
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         17445      0  282   62     1   92514    127  780  119     5     103    12     4      0   33
+
+### RECORD   67 >>> ip-172-31-44-122 <<< (1747813481.003) (Wed May 21 07:44:41 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    91    0    7    1    0    0     1     0     0    0
+      1    90    0    7    0    0    0     2     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         50800      0  467  109     1       0      0    0    0     0     108     1     1      0   36
+
+### RECORD   68 >>> ip-172-31-44-122 <<< (1747813482.001) (Wed May 21 07:44:42 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    6    0    0    0     1     0     0    0
+      1    90    0    8    0    0    0     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         51210      0  458  112     1      20      1    4    5     0     110     1     1      0   37
+
+### RECORD   69 >>> ip-172-31-44-122 <<< (1747813483.001) (Wed May 21 07:44:43 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    87    0    9    1    0    0     2     0     0    0
+      1    91    0    6    1    0    0     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         76540      0  704  109     1       0      0    0    0     0     108     1     1      0   41
+
+### RECORD   70 >>> ip-172-31-44-122 <<< (1747813484.001) (Wed May 21 07:44:44 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    91    0    8    0    0    0     1     0     0    0
+      1    81    0   13    1    0    0     0     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         75700      0  681  111     1   27664     80  234  118     3     112     3     1      0   41
+
+### RECORD   71 >>> ip-172-31-44-122 <<< (1747813485.001) (Wed May 21 07:44:45 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    7    1    0    1     1     0     0    0
+      1    85    0   13    1    0    0     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         44868      0  412  109     1   38768    120  340  114     3     111     4     2      0   36
+
+### RECORD   72 >>> ip-172-31-44-122 <<< (1747813486.004) (Wed May 21 07:44:46 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    86    0   10    0    0    0     1     0     0    0
+      1    90    0    6    1    0    0     2     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         35210      0  335  105     1    1591    190   90   18     0      86     1     1      0   30
+
+### RECORD   73 >>> ip-172-31-44-122 <<< (1747813487.001) (Wed May 21 07:44:47 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    80    0   17    1    0    0     1     0     0    0
+      1    88    0    7    2    0    1     1     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         53468      0  512  105     1   66976    508  760   88     2      94     6     2      0   43
+
+### RECORD   74 >>> ip-172-31-44-122 <<< (1747813488.004) (Wed May 21 07:44:48 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    88    0    7    0    0    0     1     0     0    0
+      1    87    0    8    1    0    0     2     0     0    1
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         35972      0  349  103     1     558      0   23   24     0      98     1     1      0   29
+
+### RECORD   75 >>> ip-172-31-44-122 <<< (1747813489.001) (Wed May 21 07:44:49 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    42    0    3    3    0    0     1     0     0   51
+      1    75    0    8    3    0    0     1     0     0   12
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         20349      0  230   89     1     152      0    5   30     0      87     1     1      0   18
+
+### RECORD   76 >>> ip-172-31-44-122 <<< (1747813490.001) (Wed May 21 07:44:50 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    3    2    0    0     1     0     0    4
+      1     3    0    1    3    0    0     1     0     0   91
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          4680     58  123   38     0     584      0   13   45     0      38     1     0      0    7
+
+### RECORD   77 >>> ip-172-31-44-122 <<< (1747813491.001) (Wed May 21 07:44:51 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    62    0   31    2    0    3     1     0     0    1
+      1    31    0   25    0    0    2     1     0     0   37
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1536      0   80   19     0    1264      0   89   14     0      16     1     0      0    5
+
+### RECORD   78 >>> ip-172-31-44-122 <<< (1747813492.002) (Wed May 21 07:44:52 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    50    0   46    0    0    2     2     0     0    0
+      1    50    0   46    0    0    2     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2925      0   72   41     0     703      0   60   12     0      27     1     0      0    6
+
+### RECORD   79 >>> ip-172-31-44-122 <<< (1747813493.002) (Wed May 21 07:44:53 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    69    0   26    0    0    2     1     0     0    1
+      1    33    0   63    0    0    0     1     0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1496     18   54   28     0    1344      0   91   15     0      19     1     0      0    5
+
+### RECORD   80 >>> ip-172-31-44-122 <<< (1747813494.001) (Wed May 21 07:44:54 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    68    0   26    1    0    1     2     0     0    1
+      1    42    0   23    0    0    4     1     0     0   30
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           996      0   51   20     0     896      0   71   13     0      15     1     0      0    5
+
+### RECORD   81 >>> ip-172-31-44-122 <<< (1747813495.001) (Wed May 21 07:44:55 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    77    0   12    2    0    1     1     0     0    2
+      1    26    0    9    2    0    1     1     0     0   60
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1832      0   84   22     0     784      0   56   14     0      18     1     0      0    7
+
+### RECORD   82 >>> ip-172-31-44-122 <<< (1747813496.002) (Wed May 21 07:44:56 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    68    0    9    2    0    0     1     0     0   19
+      1    42    0   10    1    0    2     1     0     0   44
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1226      0   49   25     0    1214      0   93   13     0      17     1     0      0    5
+
+### RECORD   83 >>> ip-172-31-44-122 <<< (1747813497.002) (Wed May 21 07:44:57 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    68    0   16    2    0    2     1     0     0   11
+      1    39    0   13    0    0    2     1     0     0   45
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           788      0   51   15     0     896      0   91   10     0      11     1     0      0    7
+
+### RECORD   84 >>> ip-172-31-44-122 <<< (1747813498.001) (Wed May 21 07:44:58 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    42    0    7    2    0    1     1     0     0   47
+      1    65    0   10    3    0    2     1     0     0   19
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2714      0   96   28     0     864      0   76   11     0      20     1     0      0    9
+
+### RECORD   85 >>> ip-172-31-44-122 <<< (1747813499.001) (Wed May 21 07:44:59 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    38    0   10    3    0    2     1     0     0   44
+      1    72    0    5    4    0    1     1     0     0   16
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          3748      0  138   27     0    1648      0  173   10     0      17     1     0      0   11
+
+### RECORD   86 >>> ip-172-31-44-122 <<< (1747813500.001) (Wed May 21 07:45:00 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    64    0    4    3    0    0     4     0     0   25
+      1    30    0    3    1    0    0     2     0     0   63
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2432      0   71   34     0     296      0   22   13     0      29     1     0      0    5
+
+### RECORD   87 >>> ip-172-31-44-122 <<< (1747813501.002) (Wed May 21 07:45:01 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    27    0    9    2    0    1     1     0     0   59
+      1    86    0    6    3    0    1     1     0     0    3
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2269      0   86   26     0     727      0   70   10     0      19     1     0      0    8
+
+### RECORD   88 >>> ip-172-31-44-122 <<< (1747813502.001) (Wed May 21 07:45:02 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    39    0    9    6    0    2     1     0     0   43
+      1    73    0    6    3    0    0     2     0     0   16
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          3187      0  127   25     0    1497      0  169    9     0      15     1     0      0   11
+
+### RECORD   89 >>> ip-172-31-44-122 <<< (1747813503.002) (Wed May 21 07:45:03 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    76    0    5    6    0    1     3     0     0    9
+      1    21    0    3    0    0    0     1     0     0   70
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          3800      0  107   36     0     383      0   41    9     0      28     1     0      0    8
+
+### RECORD   90 >>> ip-172-31-44-122 <<< (1747813504.001) (Wed May 21 07:45:04 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    77    0    5    2    0    0     1     0     0   10
+      1    29    0    5    1    0    1     1     0     0   62
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1389      0   60   23     0     728      0   77    9     0      15     1     0      0    7
+
+### RECORD   91 >>> ip-172-31-44-122 <<< (1747813505.001) (Wed May 21 07:45:05 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    90    0    4    1    0    0     1     0     0    3
+      1     9    0    4    2    0    1     1     0     0   82
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1500      0   60   25     0     416      0   47    9     0      17     1     0      0    5
+
+### RECORD   92 >>> ip-172-31-44-122 <<< (1747813506.002) (Wed May 21 07:45:06 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    70    0    3    3    0    0     1     0     0   22
+      1    24    0    1    1    0    0     1     0     0   73
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2233      0   94   24     0    1686      0  101   17     0      20     1     0      0    7
+
+### RECORD   93 >>> ip-172-31-44-122 <<< (1747813507.002) (Wed May 21 07:45:07 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    77    0    5    1    0    1     1     0     0   14
+      1    22    0    4    1    0    0     0     0     0   72
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           936      0   40   23     0    3464      4  235   15     0      16     3     0      0    4
+
+### RECORD   94 >>> ip-172-31-44-122 <<< (1747813508.001) (Wed May 21 07:45:08 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    54    0    6   14    0    0     1     0     0   24
+      1    45    0    2    0    0    0     0     0     0   48
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda         13745     29  224   61     0    1593      0   63   25     0      53     1     0      0   16
+
+### RECORD   95 >>> ip-172-31-44-122 <<< (1747813509.001) (Wed May 21 07:45:09 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    87    0    4    0    0    0     3     0     0    2
+      1    30    0    3    0    0    0     1     0     0   62
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           688      0   15   46     0    2276    111   60   38     0      39     3     0      0    2
+
+### RECORD   96 >>> ip-172-31-44-122 <<< (1747813510.001) (Wed May 21 07:45:10 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    75    0    2    2    0    0     2     0     0   18
+      1    22    0    2    1    0    0     1     0     0   73
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           792      0   28   28     0     216      0   23    9     0      19     1     0      0    3
+
+### RECORD   97 >>> ip-172-31-44-122 <<< (1747813511.001) (Wed May 21 07:45:11 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    47    0    3    3    0    1     1     0     0   44
+      1    42    0    2    0    0    0     0     0     0   51
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          1760      0   81   22     0     192      0   22    9     0      18     1     0      0    4
+
+### RECORD   98 >>> ip-172-31-44-122 <<< (1747813512.001) (Wed May 21 07:45:12 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    65    0    2    4    0    0     1     0     0   24
+      1    23    0    0    2    0    0     2     0     0   72
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2568      0  103   25     0     640      0   68    9     0      18     1     0      0    7
+
+### RECORD   99 >>> ip-172-31-44-122 <<< (1747813513.001) (Wed May 21 07:45:13 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    33    0    4    2    0    0     1     0     0   60
+      1    56    0    3    3    0    0     1     0     0   32
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2296      0  114   20     0    1632     58  146   11     1      15     3     1      0    8
+
+### RECORD  100 >>> ip-172-31-44-122 <<< (1747813514.001) (Wed May 21 07:45:14 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    89    0    3    3    0    0     2     0     0    3
+      1     0    0    0    0    0    0     1     0     0   98
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2064      0   77   27     0      32      0    4    8     1      25     1     0      0    4
+
+### RECORD  101 >>> ip-172-31-44-122 <<< (1747813515.001) (Wed May 21 07:45:15 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    92    0    4    1    0    0     0     0     0    3
+      1     0    0    0    0    0    0     0     0     0   96
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           328      0   17   19     0      56      0    6    9     1      16     1     0      0    1
+
+### RECORD  102 >>> ip-172-31-44-122 <<< (1747813516.001) (Wed May 21 07:45:16 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0    75    0    3    8    0    0     3     0     0   10
+      1     1    0    1    2    0    0     1     0     0   95
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda          2896      0  179   16     0     520      0   21   25     1      17     1     0      0   10
+
+### RECORD  103 >>> ip-172-31-44-122 <<< (1747813517.001) (Wed May 21 07:45:17 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     3    0    1    0    0    0     9     0     0   83
+      1     0    0    0    0    0    0     7     0     0   92
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda           224      0   20   11     0     312      0    7   45     1      19     1     0      0    1
+
+### RECORD  104 >>> ip-172-31-44-122 <<< (1747813518.001) (Wed May 21 07:45:18 2025) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Guest NiceG Idle
+      0     0    0    0    0    0    0    12     0     0   86
+      1     0    0    0    0    0    0     7     0     0   91
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------------><---------writes--------------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  Wait  KBytes Merged  IOs Size  Wait  RWSize  QLen  Wait SvcTim Util
+xvda             8      0    2    4     0     168      0   38    4     1       4     8     1      0    0
