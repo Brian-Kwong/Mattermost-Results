@@ -1,0 +1,45 @@
+
+div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: 2px solid #4CAF50;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: white;
+  color: #4CAF50;
+  scale: 1.1;
+  box-shadow: 1px 1px 5px #4CAF50;
+  transition: background-color 0.5s ease;
+  transition: color 0.5s ease;
+}
+
+title {
+  font-size: 2rem;
+  text-align: center;
+}
+
+iframe{
+  align-self: center;
+  width: 680px;
+  height: 100%;
+  border: none;
+  margin: 10px;
+}
